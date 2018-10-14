@@ -1,0 +1,15 @@
+      Bus Name     |    Availability   |    Dpepart. Time   |    Destination
+---------------------------------------------------------------------------------
+1. Ena Transport   |        YES        |       4.30pm       |   Dhaka-Mymensingh
+
+2. Shoukhin ENT.   |        N/A        |         -          |        -
+
+3. Shamim ENT.     |        Yes        |       01.20am      |   Dhaka-Mymensingh
+
+4. Green Line ENT. |        YES        |       10.30am      |   Dhaka-Khulna
+
+5. Bestway Travels |        YES        |       8.30pm       |   Dhaka-Rajshahi
+      
+6. Hanif ENT.      |        N/A        |         -          |        -
+
+Date:17/08/15
